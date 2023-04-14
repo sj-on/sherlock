@@ -25,7 +25,7 @@
   position: relative;
   left: 40%;
   width: 60%;
-  height: 250%;
+  min-height: 100vh;
   /* if I make it 250vh, text goes out of the decorated area */
   background-color: #2a2e20;
   color: white;
